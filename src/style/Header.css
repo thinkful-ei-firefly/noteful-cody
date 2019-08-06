@@ -1,0 +1,9 @@
+header {
+  border-bottom: 2px black solid;
+  text-align: center;
+}
+
+header a{
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,31 @@
+.folder-bar {
+  border: black 1px solid;
+  border-top: none;
+  display: flex;
+  width: 200px;
+}
+
+.folder-bar nav{
+  margin: 0 auto;
+}
+
+.folder-bar ul{
+  list-style: none;
+  padding: 0;
+}
+
+.folder-bar a{
+  text-decoration: none;
+  border: 1px black solid;
+  padding: 10px 40px;
+  margin: 5px 0;
+}
+
+.folder-bar li{
+  padding: 10px 0;
+  margin: 5px 0;
+}
+
+.folder-bar a:hover{
+  cursor: pointer;
+}

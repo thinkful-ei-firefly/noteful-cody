@@ -1,0 +1,25 @@
+.note-detail{
+  display: flex;
+}
+
+.note-detail aside{
+  padding: 10px;
+  border: 1px black solid;
+  border-top: none;
+}
+
+.note-detail button{
+  text-decoration: none;
+  border: 1px black solid;
+  padding: 10px 40px;
+  margin: 5px 0;
+}
+
+.note-detail button:hover{
+  cursor: pointer;
+  background-color: lightblue;
+}
+
+.note-detail section{
+  padding: 20px;
+}
